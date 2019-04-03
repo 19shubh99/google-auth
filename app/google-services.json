@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "766633704514",
+    "firebase_url": "https://authbarberia.firebaseio.com",
+    "project_id": "authbarberia",
+    "storage_bucket": "authbarberia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766633704514:android:8e1bea92660551b0",
+        "android_client_info": {
+          "package_name": "com.example.google_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766633704514-ornruf6og7dncft6epa5gvdv59grqqvf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.google_auth",
+            "certificate_hash": "8a91101696108249fe41ea6bee68e1389ba981d0"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBABMxrF3R5YvN9RzvGcrxeR6SgY8cjKq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766633704514-i47tqdm3l7o41rv47uedlasu0t7bbk6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
